@@ -1,4 +1,0 @@
-This is my first file.
-
-
-This is new line am added to this file
